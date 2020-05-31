@@ -1,0 +1,1 @@
+This program contain the statistics of given array as part of assignment from coursera.
